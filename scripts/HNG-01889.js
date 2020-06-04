@@ -5,7 +5,7 @@ let intern = {
     "email": "gchiezugo47@gmail.com ",
     "language": "JavaScript ",
     internInfo: function (){
-        return this.greeting + 'this is ' + this.name + 'with HNGi7 ID ' + this.ID + 'and email ' + this.email +'using ' + this.language + 'for stage 2 task';
+        return this.greeting + 'this is ' + this.name + 'with HNGi7 ID ' + this.ID + 'and email ' + this.email +'using ' + this.language + 'for stage 2 task ';
     }
 };
 console.log(intern.internInfo());
